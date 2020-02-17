@@ -1,0 +1,10 @@
+C:\Users\that1\Desktop\C#\Shipping\Shipping\obj\Debug\Shipping.csprojAssemblyReference.cache
+C:\Users\that1\Desktop\C#\Shipping\Shipping\obj\Debug\Shipping.FormList.resources
+C:\Users\that1\Desktop\C#\Shipping\Shipping\obj\Debug\Shipping.Properties.Resources.resources
+C:\Users\that1\Desktop\C#\Shipping\Shipping\obj\Debug\Shipping.csproj.GenerateResource.cache
+C:\Users\that1\Desktop\C#\Shipping\Shipping\obj\Debug\Shipping.csproj.CoreCompileInputs.cache
+C:\Users\that1\Desktop\C#\Shipping\Shipping\bin\Debug\Shipping.exe.config
+C:\Users\that1\Desktop\C#\Shipping\Shipping\bin\Debug\Shipping.exe
+C:\Users\that1\Desktop\C#\Shipping\Shipping\bin\Debug\Shipping.pdb
+C:\Users\that1\Desktop\C#\Shipping\Shipping\obj\Debug\Shipping.exe
+C:\Users\that1\Desktop\C#\Shipping\Shipping\obj\Debug\Shipping.pdb
